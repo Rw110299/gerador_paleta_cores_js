@@ -1,0 +1,1 @@
+# gerador_paleta_cores_js
